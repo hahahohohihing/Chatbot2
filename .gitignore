@@ -1,8 +1,7 @@
 # 파일
 .env
+.DS_Store
 
 # 폴더
-/Users/hahahohohihing/RAG/chroma
-/Users/hahahohohihing/RAG/chroma_db.env
 chroma/
 chroma_db/
